@@ -15,11 +15,15 @@ body {
 
 /* Style the header */
 header {
+  background-image: url(weed2.jpg);
+  background-repeat: no-repeat;
+  b
   background-color: #666;
   padding: 30px;
   text-align: center;
   font-size: 35px;
   color: white;
+  width: 100%;
 }
 
 /* Create two columns/boxes that floats next to each other */
@@ -27,8 +31,11 @@ nav {
   float: left;
   width: 30%;
   height: 300px; /* only for demonstration, should be removed */
-  background: #ccc;
+  background: #bcc;
   padding: 20px;
+  background-image: url(weed1.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
 
 /* Style the list inside the menu */
@@ -41,7 +48,7 @@ article {
   float: left;
   padding: 20px;
   width: 70%;
-  background-color: #f1f1f1;
+  background-color: #;
   height: 300px; /* only for demonstration, should be removed */
 }
 
@@ -71,35 +78,33 @@ footer {
 </head>
 <body>
 
-<h2>CSS Layout Float</h2>
-<p>In this example, we have created a header, two columns/boxes and a footer. On smaller screens, the columns will stack on top of each other.</p>
-<p>Resize the browser window to see the responsive effect (you will learn more about this in our next chapter - HTML Responsive.)</p>
 
 <header>
-  <h2>Cities</h2>
+  <h2>easyweed.com</h2>
 </header>
 
 <section>
   <nav>
+<center>
+
     <ul>
-      <li><a href="#">Welcome</a></li>
-      <li><a href="#">Page1</a></li>
-      <li><a href="#">Page2</a></li>
+      <li><a href="index.html">Welcome</a></li>
+      <li><a href="Page1.html">Page1</a></li>
+      <li><a href="Page2.html">Page2</a></li>
     </ul>
   </nav>
+</section>
 
   <article>
-    <h1>London</h1>
-    <p>London is the capital city of England. It is the most populous city in the  United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
-    <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+    <h1>Buy cheap Weed Online</h1>
+    <p>easyweed.com sells weed for everyone, and even for people who are mentally retarded</p>
+    <p>This is a preview of our products</p>
+    <img src="https://scx1.b-cdn.net/csz/news/800/2018/3-cannabis.jpg">
   </article>
 
 
 </section>
 
-<footer>
-  <p>Footer</p>
-</footer>
 
 </body>
 </html>

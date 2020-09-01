@@ -83,15 +83,15 @@ footer {
   <nav>
     <ul>
       <li><a href="index.html">Welcome</a></li>
-      <li><a href="Sid1.html">Page1</a></li>
-      <li><a href="Sid2.html">Page2</a></li>
+      <li><a href="Page1.html">Page1</a></li>
+      <li><a href="Page2.html">Page2</a></li>
     </ul>
   </nav>
 
   <article>
-    <h1>London</h1>
-    <p>London is the capital city of England. It is the most populous city in the  United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
-    <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+    <h1>Page1</h1>
+    <p>This is page 1. That means that you shud hang yourself, go kys</p>
+    <p>Hello</p>
   </article>
 
 

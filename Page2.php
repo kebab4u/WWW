@@ -82,9 +82,9 @@ footer {
 <section>
   <nav>
     <ul>
-      <li><a href="#">Welcome</a></li>
-      <li><a href="#">Page1</a></li>
-      <li><a href="#">Page2</a></li>
+      <li><a href="index.html">Welcome</a></li>
+      <li><a href="Page1.html">Page1</a></li>
+      <li><a href="Page2.html">Page2</a></li>
     </ul>
   </nav>
 
